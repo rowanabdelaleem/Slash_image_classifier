@@ -35,8 +35,8 @@ Demonstrates the prediction on a test image.
 Saves the trained model for future use.
 # Dependencies
 The code requires the following Python libraries:
-*numpy
-*tensorflow
-*os
-*matplotlib.pyplot
-*keras
+* numpy
+* tensorflow
+* os
+* matplotlib.pyplot
+* keras
